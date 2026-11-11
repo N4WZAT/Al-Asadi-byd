@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- معلومات المبرمج: ثابتة في كل اللغات -->
-    <string name="dev_name" translatable="false">حسين الأسدي</string>
-    <string name="dev_phone" translatable="false">07736038724</string>
-</resources>
