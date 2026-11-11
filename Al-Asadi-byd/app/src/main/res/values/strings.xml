@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- النصوص الافتراضية: العربية -->
+<resources>
+    <string name="app_name">مساعد BYD الصوتي</string>
+
+    <!-- الشاشة الرئيسية -->
+    <string name="status_idle">اضغط على الميكروفون وتحدث</string>
+    <string name="status_listening">أستمع إليك…</string>
+    <string name="status_permission_denied">يلزم السماح باستخدام الميكروفون لتعمل الأوامر الصوتية</string>
+    <string name="status_not_available">خدمة التعرف على الصوت غير متوفرة على هذا الجهاز. يمكنك استخدام الأزرار السريعة.</string>
+    <string name="btn_language">English</string>
+    <string name="btn_voice_on">الرد الصوتي: يعمل</string>
+    <string name="btn_voice_off">الرد الصوتي: متوقف</string>
+    <string name="btn_about">حول التطبيق</string>
+    <string name="quick_maps">الخرائط</string>
+    <string name="quick_music">الموسيقى</string>
+    <string name="quick_phone">الهاتف</string>
+    <string name="quick_settings">الإعدادات</string>
+    <string name="cd_mic">زر الميكروفون</string>
+    <string name="dev_footer">المبرمج: %1$s\nهاتف: %2$s</string>
+
+    <!-- حول التطبيق -->
+    <string name="about_title">حول التطبيق</string>
+    <string name="about_desc">مساعد صوتي مخصص لسيارات BYD لتنفيذ الأوامر الصوتية البسيطة أثناء القيادة.</string>
+    <string name="about_version">الإصدار %1$s</string>
+    <string name="about_developer_label">المبرمج</string>
+    <string name="about_phone_label">رقم الهاتف</string>
+    <string name="about_call">اتصال</string>
+    <string name="about_copy">نسخ الرقم</string>
+    <string name="about_copied">تم نسخ الرقم</string>
+    <string name="about_commands_title">الأوامر المدعومة</string>
+    <string name="about_commands">• افتح [اسم تطبيق]\n• اذهب إلى [مكان]\n• ابحث عن [كلمة]\n• ارفع الصوت / اخفض الصوت / كتم الصوت\n• شغل الموسيقى / التالي / السابق / إيقاف مؤقت\n• اتصل بالرقم [رقم]\n• كم الساعة؟ / ما هو التاريخ؟\n• افتح الإعدادات / البلوتوث / الواي فاي\n• الشاشة الرئيسية\n• مساعدة</string>
+    <string name="about_back">رجوع</string>
+
+    <!-- أخطاء التعرف على الصوت -->
+    <string name="err_no_match">لم أفهم ما قلته، حاول مرة أخرى</string>
+    <string name="err_timeout">لم أسمع شيئاً، اضغط على الميكروفون وحاول مجدداً</string>
+    <string name="err_network">تحقق من اتصال الإنترنت وحاول مجدداً</string>
+    <string name="err_busy">المعرّف الصوتي مشغول، حاول بعد لحظات</string>
+    <string name="err_audio">حدثت مشكلة في الميكروفون</string>
+    <string name="err_permission">يلزم السماح باستخدام الميكروفون</string>
+    <string name="err_generic">تعذّر التعرف على الصوت، حاول مرة أخرى</string>
+
+    <!-- ردود المساعد -->
+    <string name="reply_unknown">لم أفهم الأمر. قل «مساعدة» لمعرفة الأوامر المتاحة</string>
+    <string name="reply_help">يمكنك قول: افتح الخرائط، اذهب إلى المطار، ارفع الصوت، اخفض الصوت، كتم الصوت، شغل الموسيقى، التالي، كم الساعة، ابحث عن مطعم، اتصل بالرقم، أو افتح الإعدادات</string>
+    <string name="reply_time">الساعة الآن %1$s</string>
+    <string name="reply_date">اليوم هو %1$s</string>
+    <string name="reply_volume_up">تم رفع الصوت</string>
+    <string name="reply_volume_down">تم خفض الصوت</string>
+    <string name="reply_mute">تم كتم الصوت</string>
+    <string name="reply_unmute">تم إلغاء كتم الصوت</string>
+    <string name="reply_media_next">الأغنية التالية</string>
+    <string name="reply_media_prev">الأغنية السابقة</string>
+    <string name="reply_media_pause">تم الإيقاف المؤقت</string>
+    <string name="reply_media_resume">تم الاستئناف</string>
+    <string name="reply_open_maps">جاري فتح الخرائط</string>
+    <string name="reply_open_music">جاري فتح الموسيقى</string>
+    <string name="reply_open_phone">جاري فتح الهاتف</string>
+    <string name="reply_open_settings">جاري فتح الإعدادات</string>
+    <string name="reply_open_bluetooth">جاري فتح إعدادات البلوتوث</string>
+    <string name="reply_open_wifi">جاري فتح إعدادات الواي فاي</string>
+    <string name="reply_home">الشاشة الرئيسية</string>
+    <string name="reply_opening_app">جاري فتح %1$s</string>
+    <string name="reply_app_not_found">لم أجد تطبيقاً باسم %1$s</string>
+    <string name="reply_need_app">أي تطبيق تريد فتحه؟</string>
+    <string name="reply_navigating">جاري التوجيه إلى %1$s</string>
+    <string name="reply_searching">جاري البحث عن %1$s</string>
+    <string name="reply_need_query">ماذا تريد أن أبحث عنه؟</string>
+    <string name="reply_need_place">إلى أين تريد الذهاب؟</string>
+    <string name="reply_dialing">جاري تجهيز الاتصال بالرقم %1$s</string>
+    <string name="reply_not_available">هذا الإجراء غير متوفر على هذا الجهاز</string>
+    <string name="reply_greeting">أهلاً بك! كيف أساعدك؟</string>
+    <string name="reply_thanks">على الرحب والسعة</string>
+    <string name="reply_developer">تم تطوير هذا التطبيق بواسطة %1$s</string>
+</resources>
